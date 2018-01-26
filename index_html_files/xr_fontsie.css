@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Vollkorn+SC:600,600&subset=latin);
-@import url(https://fonts.googleapis.com/css?family=Vollkorn+SC:regular,700,regular&subset=latin);
-@import url(https://fonts.googleapis.com/css?family=Noto+Serif:italic&subset=latin);
-@import url(https://fonts.googleapis.com/css?family=Vollkorn+SC:900&subset=latin);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn+SC:600&subset=latin);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn+SC:regular&subset=latin);
 @font-face {font-family: 'FontAwesome';font-weight:normal;font-style:normal;src: url("XaraWDGeneratedHTMLfont1.woff") format("woff"), url("XaraWDEmbeddedHTMLfont1.eot?") format("embedded-opentype"), local('FontAwesome');}
