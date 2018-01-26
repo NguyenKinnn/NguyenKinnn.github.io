@@ -2,15 +2,15 @@ index_html_files
 index.html
 index_html_files/1.png
 index_html_files/1@2x.png
-index_html_files/185.jpg
 index_html_files/190.jpg
 index_html_files/180.png
 index_html_files/180@2x.png
-index_html_files/222.png
 index_html_files/214.png
 index_html_files/216.jpg
 index_html_files/216@2x.jpg
 index_html_files/220.jpg
 index_html_files/220@2x.jpg
+index_html_files/229.png
+index_html_files/227.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
