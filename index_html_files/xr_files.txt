@@ -10,8 +10,8 @@ index_html_files/544.jpg
 index_html_files/544@2x.jpg
 index_html_files/545.jpg
 index_html_files/545@2x.jpg
-index_html_files/558.jpg
-index_html_files/558@2x.jpg
+index_html_files/579.jpg
+index_html_files/579@2x.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
