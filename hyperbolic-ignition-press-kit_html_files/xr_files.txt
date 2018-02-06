@@ -31,8 +31,6 @@ hyperbolic-ignition-press-kit_html_files/921.jpg
 hyperbolic-ignition-press-kit_html_files/921@2x.jpg
 hyperbolic-ignition-press-kit_html_files/922.jpg
 hyperbolic-ignition-press-kit_html_files/922@2x.jpg
-hyperbolic-ignition-press-kit_html_files/923.jpg
-hyperbolic-ignition-press-kit_html_files/923@2x.jpg
 hyperbolic-ignition-press-kit_html_files/924.jpg
 hyperbolic-ignition-press-kit_html_files/924@2x.jpg
 hyperbolic-ignition-press-kit_html_files/927.jpg
@@ -42,11 +40,13 @@ hyperbolic-ignition-press-kit_html_files/1102@2x.jpg
 hyperbolic-ignition-press-kit_html_files/1103.jpg
 hyperbolic-ignition-press-kit_html_files/1103@2x.jpg
 hyperbolic-ignition-press-kit_html_files/1104.jpg
-hyperbolic-ignition-press-kit_html_files/1105.jpg
 hyperbolic-ignition-press-kit_html_files/1106.jpg
 hyperbolic-ignition-press-kit_html_files/1106@2x.jpg
 hyperbolic-ignition-press-kit_html_files/1107.jpg
 hyperbolic-ignition-press-kit_html_files/1107@2x.jpg
+hyperbolic-ignition-press-kit_html_files/1118.jpg
+hyperbolic-ignition-press-kit_html_files/1118@2x.jpg
+hyperbolic-ignition-press-kit_html_files/1133.jpg
 hyperbolic-ignition-press-kit_html_files/XaraWDGeneratedHTMLfont1.woff
 hyperbolic-ignition-press-kit_html_files/XaraWDEmbeddedHTMLfont1.eot
 hyperbolic-ignition-press-kit_html_files/XaraWDGeneratedHTMLfont2.woff
